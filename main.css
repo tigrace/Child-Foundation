@@ -1,0 +1,78 @@
+.body {
+    padding: 0;
+    margin: 0;
+    background: #f2f6e9;
+  }
+ /*--- carousel content ---*/
+
+.col-4 {
+  /* border: 5px solid red; */
+  padding: 3%;
+}
+.border {
+  /* border: 5px solid red; */
+  padding: 2%;
+}
+
+/* donate segement */
+#donate {
+  background-color: plum;
+  width: 100%;
+  height: 150px;
+  text-align: center;
+  margin-top: 40px;
+ 
+}
+/* just */
+#just {
+  justify-content: center;
+  padding-left: 200px;
+}
+/* generate */
+#generate {
+  text-align: center;
+  margin-top: 90px;
+}
+.writing {
+  text-align: center;
+  margin-left: 290px;
+  width: 50%;
+  padding-left: 90px;
+}
+
+
+/* card */
+
+/* img in circular way */
+#img {
+
+}
+
+/* testimony */
+
+.color { 
+   background-color:#c6a259 ;
+}
+
+#testimony {
+  margin-top: 100px;
+ text-align: center;
+}
+
+/*  */
+.text-border {
+  border: 1px solid white;
+  padding: 18%;
+  background: white;
+}
+.padding-fixed {
+  padding: 7%;
+}
+
+/* form */
+#form {
+  width: 38%;
+  padding: 3px;
+  border: 3px solid red;
+
+}
